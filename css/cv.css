@@ -1,0 +1,32 @@
+body{
+	background-color:#E8E8E8;
+}
+#titre{
+	width:85%;
+	background-color:#2c4762;
+	margin:auto;
+	color: white;
+}
+#titre1{
+	
+	margin:auto;
+    width:85%;
+   
+    border: 3px  #73AD21;
+}
+#titre2{
+	width: 35%;
+	background-color:#D0D0D0;
+	height: 80%;
+}
+#titre3{
+	width: 65%;
+	background-color:#F8F8F8;
+	height: 85%;
+}
+#f1{
+	width:85%;
+	background-color:#000033;
+	margin:auto;
+	color: white;
+}
